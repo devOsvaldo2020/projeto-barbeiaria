@@ -1,0 +1,253 @@
+Barbeiro - Barbeiros e corte de cabelo
+Este é um modelo html de barbeiro feito por codewithsadee traduzido por devosc em nov-2022
+
+
+
+#---------- CABEÇALHO ----------#
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Ligue para nós:
+
+... numero do telefone aqui ...
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Hora de abertura :
+Domingo - Sexta-feira, 08h00 - 09h00
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="chatbubble-ellipses-outline"></ion-icon>
+
+barbeiro
+Cabeleireiro
+
+Casa
+Serviços
+Preços
+Galeria
+Compromisso
+Contato
+
+aria-label="alternar menu"
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Compromisso
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERÓI ----------#
+
+Barbeiros e corte de cabelo
+
+... digite uma descricao aqui ...
+
+Explore nossos serviços
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SERVIÇO ----------#
+
+Serviço que fornecemos
+
+...digite a decricao aqui...
+
+<i class="flaticon-salon"></i>
+
+Estilo de corte de cabelo
+
+... digite a descricao aqui ...
+
+aria-label="mais"
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+<i class="flaticon-shampoo"></i>
+Lavagem de cabelo
+
+<i class="flaticon-hot-stone"></i>
+Tratamentos Corporais
+
+<i class="flaticon-treatment"></i>
+Beleza e estética
+
+<i class="flaticon-shaving-razor"></i>
+Barbear Estilista
+
+<i class="flaticon-hair-dye"></i>
+Várias cores de cabelo
+
+
+
+#---------- PREÇOS ----------#
+
+Plano de preços incrível
+
+... digite uma descricao aqui ...
+
+filtro = todos
+<i class="flaticon-beauty-salon" aria-hidden="true"></i>
+Todos os preços
+
+filtro = spa de beleza
+<i class="flaticon-relax" aria-hidden="true"></i>
+Beleza e Estéticas
+
+filtro = tratamentos corporais
+<i class="flaticon-massage" aria-hidden="true"></i>
+Tratamentos Corporais
+
+filtro = lavar o rosto
+<i class="flaticon-spa" aria-hidden="true"></i>
+Lavagem do rosto
+
+filtro = meditações
+<i class="flaticon-yoga" aria-hidden="true"></i>
+Meditações
+
+filtro = barbear
+<i class="flaticon-razor-blade" aria-hidden="true"></i>
+Barbear
+
+filtro = barbear
+alt = Corte e ajuste de cabelo
+
+Corte e ajuste de cabelo
+Limpo e simples 30-40 minutos
+$ 89
+
+filtro = barbear
+Barbear e Facial
+$ 45
+
+filtro = lavar o rosto
+Cor e Lavagem do Cabelo
+$ 35
+
+filtro = tratamentos corporais
+Massagem Corporal
+$ 56
+
+filtro = spa de beleza
+Beleza e estética
+$ 27
+
+filtro = lavar o rosto
+Lavagem facial e facial
+$ 63
+
+filtro = tratamentos corporais
+Massagem da Coluna
+$ 43
+
+filtro = meditações
+Meditação e Massagem
+$ 74
+
+
+
+#---------- GALERIA ----------#
+
+Galeria de fotos mais recente
+
+... digite uma descricao aqui ...
+
+Explorar mais galeria
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = corte de cabelo
+
+Corte de cabelo
+
+Serviços de barbeiros e salões
+
+aria-label="Leia mais"
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- COMPROMISSO ----------#
+
+Marcar consulta
+
+... digite uma descricao aqui ...
+
+placeholder = Seu nome completo
+espaço reservado = endereço de e-mail
+espaço reservado = número de telefone
+
+Selecione a Categoria
+Beleza e estética
+massagem corporal
+Barbear e Facial
+Cor de cabelo
+
+placeholder = Escrever mensagem
+
+Agendamento agora
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- RODEADO ----------#
+
+barbeiro
+Cabeleireiro
+
+placeholder = Digite seu e-mail
+
+Inscreva-se agora
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Links Rápidos
+
+Nossos serviços
+Conheça nosso time
+Nosso Portfólio
+Precisa de uma carreira?
+Notícias e blogues
+
+Serviços
+
+Corte de cabelo
+Barbear e Design
+Cores de cabelo
+Beleza e estética
+Massagens Corporais
+
+Notícias recentes
+
+alt = O guia para iniciantes em Henna Brows em Brisbane
+O guia para iniciantes de Henna Brows em Brisbane
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+25 de agosto de 2022
+
+alt = Como faço para me livrar dos pelos indesejados do meu rosto?
+Como me livrar dos pelos indesejados no rosto?
+
+Contate-nos
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+... colocar o endereço completo do cliente aqui ...
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+... colocar o telefone do cliente aqui ...
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Dom - sexta-feira, 08h00 - 09h00
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+suporte@gmail.com ... colocar o email do cliente aqui ...
+
+&copy; 2022 devosc. Todos os direitos reservados.
+
+
+
+#---------- DE VOLTA AO TOPO ----------#
+
+aria-label="voltar ao topo"
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
